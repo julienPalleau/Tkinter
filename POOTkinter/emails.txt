@@ -1,0 +1,5 @@
+john@test.com
+john@text.com
+john@gmail.com
+julien.palleau@gmail.com
+toto.dd@gmail.com
