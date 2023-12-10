@@ -1,0 +1,1 @@
+# All stuff about installation see Udemy Create 10 Python GUIs with Tkinter Today chapitre 1
