@@ -14,7 +14,7 @@ def myClick():
     myLabel.pack()
 
 
-myButton = Button(root, text="Enter Your Name", command=myClick)
+myButton = Button(root, text="Enter Your Stock Quote", command=myClick)
 myButton.pack()
 
 root.mainloop()
